@@ -1,16 +1,19 @@
-# Starfighter – Testversionen
+# Rescue Earth Fighter – Testversionen
 
-Starfighter ist ein Retro-Shoot-'em-up im Stil der Arcade-Klassiker der 80er.
+**Rescue Earth Fighter** ist ein Retro-Shoot-'em-up im Stil der Arcade-Klassiker der 80er.
 Hier gibt es die Testversionen zum Herunterladen. Der Quellcode liegt nicht in diesem Repository.
+
+Bis Version `v0.1.0-rc2` hieß das Spiel noch „Starfighter“.
 
 ## Download
 
 Die aktuelle Version findest du unter **[Releases](../../releases)**.
-Versionen mit `-rc` im Namen (z. B. `v0.1.0-rc1`) sind Release-Kandidaten zum Testen und als „Pre-release“ markiert.
+Versionen mit `-rc` im Namen (z. B. `v0.1.0-rc3`) sind Release-Kandidaten zum Testen und als „Pre-release“ markiert.
 
 ## Installation (Windows, 64 Bit)
 
-1. Die ZIP-Datei `starfighter-<version>-windows-x64.zip` herunterladen und entpacken.
+1. Die ZIP-Datei `rescue-earth-fighter-<version>-windows-x64.zip` herunterladen und entpacken
+   (bis v0.1.0-rc2: `starfighter-<version>-windows-x64.zip`).
 2. `starfighter.exe` starten.
 
 Startet das Spiel nicht und meldet eine fehlende Datei wie `MSVCP140.dll` oder `VCRUNTIME140.dll`, fehlt die Microsoft Visual C++ Runtime.
@@ -18,11 +21,15 @@ Sie ist kostenlos bei Microsoft erhältlich: [vc_redist.x64.exe](https://aka.ms/
 
 ## Steuerung
 
-| Taste | Aktion |
-|---|---|
-| Pfeiltasten | Bewegen |
-| Leertaste | Schießen / Spiel starten |
-| B | Smart Bomb |
+| Tastatur | Gamepad | Aktion |
+|---|---|---|
+| Pfeiltasten / WASD | Stick / Steuerkreuz | Bewegen |
+| Leertaste | A | Schießen / Spiel starten |
+| B | B | Smart Bomb |
+| M | Y | Megabombe (ab 5 gesammelten M-Kapseln) |
+| R | X | Schutzschild an/aus |
+| F11 | – | Vollbild an/aus |
+| Esc | – | Beenden |
 
 ## Feedback
 
