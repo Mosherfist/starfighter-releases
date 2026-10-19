@@ -3,8 +3,6 @@
 **Rescue Earth Fighter** ist ein Retro-Shoot-'em-up im Stil der Arcade-Klassiker der 80er.
 Hier gibt es die Testversionen zum Herunterladen. Der Quellcode liegt nicht in diesem Repository.
 
-Bis Version `v0.1.0-rc2` hieß das Spiel noch „Starfighter“.
-
 ## Download
 
 Die aktuelle Version findest du unter **[Releases](../../releases)**.
@@ -13,7 +11,7 @@ Versionen mit `-rc` im Namen (z. B. `v0.1.0-rc3`) sind Release-Kandidaten zum Te
 ## Installation (Windows, 64 Bit)
 
 1. Die ZIP-Datei `rescue-earth-fighter-<version>-windows-x64.zip` herunterladen und entpacken
-   (bis v0.1.0-rc2: `starfighter-<version>-windows-x64.zip`).
+   (die ersten Testversionen bis v0.1.0-rc2 heißen noch nach dem Projektnamen: `starfighter-<version>-windows-x64.zip`).
 2. `starfighter.exe` starten.
 
 Startet das Spiel nicht und meldet eine fehlende Datei wie `MSVCP140.dll` oder `VCRUNTIME140.dll`, fehlt die Microsoft Visual C++ Runtime.
